@@ -135,7 +135,7 @@ export default function About() {
               >
                 <Button
                   variant="contained"
-                  href="/pdfs/AbhishekResume01.pdf" // Relative path to the file
+                  href="/pdfs/AbhishekResume03.pdf" // Relative path to the file
                   target="_blank" // Opens in a new tab
                   rel="noopener noreferrer" // Security best practice
                   sx={{
